@@ -5,7 +5,10 @@
 
 namespace hello_world {
 
-std::string hello();
+std::string hello()
+{
+    return "Hello, World!";
+}
 
 }
 
